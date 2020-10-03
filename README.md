@@ -8,9 +8,8 @@
 **logdeveloper/logdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-✨ Welcome Hanbit's GitHub✨
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://log-laboratory.tistory.com/)](https://log-laboratory.tistory.com/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loghanbit@gmail.com)](mailto:loghanbit@gmail.com)
+✨ Welcome Hanbit's GitHub [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://log-laboratory.tistory.com/)](https://log-laboratory.tistory.com/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loghanbit@gmail.com)](mailto:loghanbit@gmail.com)
+ ✨
 
 
 ### 🤔 Interest
@@ -19,10 +18,9 @@
 * DataPipe Line (especailly, Kafka/Hadoop/Kubernetes/Docker)
 * Semiconductor Solution Development (especailly, EDA/SPC) 
   
-### 🔭 Career
-* `2017.01 ~ Present` : Program Developer at [Doople](http://doople.net/) Solution Development Team 
+### 🌱 Career & Education
+* Program Developer at [Doople](http://doople.net/) Solution Development Team `2017.01 ~ Present`
 
-### 🌱 Education
 * Master of Data Science at Sogang University's Graduate School of Information and Technology `2019.09 ~ PRESENT`  
 * Bachelor of Science in Computer Engineering at Gachon University `2012.03 ~ 2017.02`   
 
