@@ -10,10 +10,10 @@
 
 ✨ Welcome Hanbit's GitHub✨
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://log-laboratory.tistory.com/)](https://log-laboratory.tistory.com/)[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loghanbit@gmail.com)](mailto:loghanbit@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://log-laboratory.tistory.com/)](https://log-laboratory.tistory.com/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loghanbit@gmail.com)](mailto:loghanbit@gmail.com)
 
 
-### Interest
+### 🤔 Interest
 * Machine Learing Operation (epecially, ML/DL Model)
 * NoSQL Database (especailly, Cassandra)
 * DataPipe Line (especailly, Kafka/Hadoop/Kubernetes/Docker)
