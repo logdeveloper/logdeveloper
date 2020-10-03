@@ -1,7 +1,37 @@
-### Hi there 👋
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flogdeveloper)](https://hits.seeyoufarm.com) 
+
+</div>
 
 <!--
 **logdeveloper/logdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+✨ Welcome Hanbit's GitHub✨
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://log-laboratory.tistory.com/)](https://log-laboratory.tistory.com/)[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loghanbit@gmail.com)](mailto:loghanbit@gmail.com)
+
+
+### Interest
+* Machine Learing Operation (epecially, ML/DL Model)
+* NoSQL Database (especailly, Cassandra)
+* DataPipe Line (especailly, Kafka/Hadoop/Kubernetes/Docker)
+* Semiconductor Solution Development (especailly, EDA/SPC) 
+  
+### 🔭 Career
+* `2017.01 ~ Present` : Program Developer at [Doople](http://doople.net/) Solution Development Team 
+
+### 🌱 Education
+* Master of Data Science at Sogang University's Graduate School of Information and Technology `2019.09 ~ PRESENT`  
+* Bachelor of Science in Computer Engineering at Gachon University `2012.03 ~ 2017.02`   
+
+<!--
+**sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Publication
+* [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, *arXiv preprint, 2020*](https://arxiv.org/abs/2009.03092).
+
+* `2016.04 ~ 2016.06` : Undergraduate Researcher at [OCLab](http://speech.sogang.ac.kr/)
 
 Here are some ideas to get you started:
 
