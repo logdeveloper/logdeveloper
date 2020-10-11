@@ -17,16 +17,18 @@
 * DataPipe Line (especailly, Kafka/Hadoop/Kubernetes/Docker)
 * Semiconductor Solution Development (especailly, EDA/SPC) 
   
+
+
+<!--
+**sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Publication
 ### 🌱 Career & Education
 * Program Developer at [Doople](http://doople.net/) Solution Development Team `2017.01 ~ Present`
 
 * Master of Data Science at Sogang University's Graduate School of Information and Technology `2019.09 ~ PRESENT`  
 * Bachelor of Science in Computer Engineering at Gachon University `2012.03 ~ 2017.02`   
 
-<!--
-**sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Publication
 * [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, *arXiv preprint, 2020*](https://arxiv.org/abs/2009.03092).
 
 * `2016.04 ~ 2016.06` : Undergraduate Researcher at [OCLab](http://speech.sogang.ac.kr/)
