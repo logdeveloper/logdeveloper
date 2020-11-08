@@ -14,13 +14,12 @@
 ### 🤔 Interest
 * Machine Learing Operation (epecially, ML/DL Model)
 * NoSQL Database (especailly, Cassandra)
-* DataPipe Line (especailly, Kafka/Hadoop/Kubernetes/Docker)
-* Semiconductor Solution Development (especailly, EDA/SPC) 
-  
+* DataPipe Line (especailly, Kafka/Hadoop/Kubernetes/Docker)  
 
 
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Semiconductor Solution Development (especailly, EDA/SPC) 
 
 ### Publication
 ### 🌱 Career & Education
