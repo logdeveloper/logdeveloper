@@ -12,7 +12,7 @@
 
 
 ### 🤔 Interest
-* Machine Learing Operation (epecially, ML/DL Model)
+* Machine Learing Operation (especially, ML/DL Model)
 * NoSQL Database (especailly, Cassandra)
 * DataPipe Line (especailly, Kafka/Hadoop/Kubernetes/Docker)  
 
